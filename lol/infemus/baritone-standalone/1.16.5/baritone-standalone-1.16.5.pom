@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>lol.infemus</groupId>
-  <artifactId>baritone</artifactId>
+  <artifactId>baritone-standalone</artifactId>
   <version>1.16.5</version>
   <description>POM was created from install:install-file</description>
 </project>
